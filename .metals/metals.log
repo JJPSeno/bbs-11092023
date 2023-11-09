@@ -1,0 +1,65 @@
+2023.11.09 08:46:50 INFO  Started: Metals version 1.1.0 in folders '/Users/jjpseno/Documents/FULLPROJ/bbs-11092023' for client Visual Studio Code 1.74.3.
+2023.11.09 08:47:00 INFO  no build target found for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.1
+2023.11.09 08:47:04 ERROR Unexpected error initializing server: 
+scala.concurrent.Future$$anon$2: Future.filter predicate is not satisfied
+
+Nov 09, 2023 8:47:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Nov 09, 2023 8:47:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Nov 09, 2023 8:47:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Nov 09, 2023 8:47:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2023.11.09 08:47:34 WARN  no build target for: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/build.sbt
+2023.11.09 08:48:08 INFO  running '/opt/local/sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/hd/g_z2jt253d30pypn9l4hqg400000gp/T/metals16919890830859159261/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.11.09 08:48:12 INFO  [info] welcome to sbt 1.9.7 (Amazon.com Inc. Java 21.0.1)
+2023.11.09 08:48:17 INFO  [info] loading settings for project bbs-backend-build-build-build from metals.sbt ...
+2023.11.09 08:48:19 INFO  [info] loading project definition from /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/project/project/project
+2023.11.09 08:48:24 INFO  [info] loading settings for project bbs-backend-build-build from metals.sbt ...
+2023.11.09 08:48:24 INFO  [info] loading project definition from /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/project/project
+2023.11.09 08:48:29 INFO  [success] Generated .bloop/bbs-backend-build-build.json
+2023.11.09 08:48:29 INFO  [success] Total time: 5 s, completed Nov 9, 2023, 8:48:30 AM
+2023.11.09 08:48:32 INFO  [info] loading settings for project bbs-backend-build from metals.sbt,plugins.sbt ...
+2023.11.09 08:48:32 INFO  [info] loading project definition from /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/project
+2023.11.09 08:48:37 INFO  [success] Generated .bloop/bbs-backend-build.json
+2023.11.09 08:48:37 INFO  [success] Total time: 5 s, completed Nov 9, 2023, 8:48:37 AM
+2023.11.09 08:48:42 INFO  [info] loading settings for project root from build.sbt ...
+2023.11.09 08:48:42 INFO  [info]   __              __
+2023.11.09 08:48:42 INFO  [info]   \ \     ____   / /____ _ __  __
+2023.11.09 08:48:42 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2023.11.09 08:48:42 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2023.11.09 08:48:42 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2023.11.09 08:48:42 INFO  [info]       /_/               /____/
+2023.11.09 08:48:42 INFO  [info] 
+2023.11.09 08:48:42 INFO  [info] Version 3.0.0 running Java 21.0.1
+2023.11.09 08:48:42 INFO  [info] 
+2023.11.09 08:48:42 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2023.11.09 08:48:42 INFO  [info] https://www.playframework.com/sponsors
+2023.11.09 08:48:42 INFO  [info] 
+2023.11.09 08:48:48 INFO  [success] Generated .bloop/root.json
+2023.11.09 08:48:48 INFO  [success] Generated .bloop/root-test.json
+2023.11.09 08:48:48 INFO  [success] Total time: 5 s, completed Nov 9, 2023, 8:48:48 AM
+2023.11.09 08:48:48 INFO  time: ran 'sbt bloopInstall' in 40s
+2023.11.09 08:48:48 INFO  Attempting to connect to the build server...
+2023.11.09 08:48:48 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home defined at /Users/jjpseno/.bloop/bloop.json
+2023.11.09 08:48:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/.metals/bsp.trace.json or /Users/jjpseno/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.11.09 08:48:48 INFO  time: Connected to build server in 0.71s
+2023.11.09 08:48:48 INFO  Connected to Build server: Bloop v1.5.11
+2023.11.09 08:48:48 INFO  time: Imported build in 0.15s
+2023.11.09 08:48:58 INFO  time: indexed workspace in 9.49s
+2023.11.09 08:48:58 WARN  no build target for: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/build.sbt
+2023.11.09 08:48:58 WARN  no build target for: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/build.sbt
+2023.11.09 08:49:01 INFO  time: code lens generation in 2.59s
+2023.11.09 08:49:01 INFO  time: code lens generation in 2.57s
+2023.11.09 08:49:01 INFO  time: code lens generation in 2.58s
+2023.11.09 08:49:01 INFO  time: code lens generation in 2.58s
+2023.11.09 08:49:01 INFO  time: code lens generation in 2.6s
+2023.11.09 08:49:01 INFO  time: code lens generation in 2.59s
+2023.11.09 08:49:01 INFO  time: code lens generation in 2.58s
+2023.11.09 08:49:01 INFO  time: code lens generation in 2.58s
+2023.11.09 08:49:01 INFO  time: code lens generation in 2.6s
+2023.11.09 08:50:36 INFO  compiling root (7 scala sources and 1 java source)
+2023.11.09 08:50:54 WARN  Error reading API from class file: controllers.routes : java.lang.UnsupportedClassVersionError: controllers/routes has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+2023.11.09 08:50:54 WARN  Error reading API from class file: controllers.routes$javascript : java.lang.UnsupportedClassVersionError: controllers/routes$javascript has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+2023.11.09 08:50:54 INFO  time: compiled root in 18s
