@@ -63,3 +63,863 @@ WARNING: Unmatched cancel notification for request id 14
 2023.11.09 08:50:54 WARN  Error reading API from class file: controllers.routes : java.lang.UnsupportedClassVersionError: controllers/routes has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 52.0
 2023.11.09 08:50:54 WARN  Error reading API from class file: controllers.routes$javascript : java.lang.UnsupportedClassVersionError: controllers/routes$javascript has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 52.0
 2023.11.09 08:50:54 INFO  time: compiled root in 18s
+2023.11.09 09:11:09 INFO  compiling root-test (1 scala source)
+2023.11.09 09:11:18 INFO  time: compiled root-test in 8.53s
+2023.11.09 09:14:35 INFO  Shutting down server
+2023.11.09 09:14:35 INFO  shutting down Metals
+2023.11.09 09:14:35 INFO  Shut down connection with build server.
+2023.11.09 11:09:52 INFO  Started: Metals version 1.1.0 in folders '/Users/jjpseno/Documents/FULLPROJ/bbs-11092023' for client Visual Studio Code 1.74.3.
+2023.11.09 11:09:56 INFO  Attempting to connect to the build server...
+2023.11.09 11:09:56 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home defined at /Users/jjpseno/.bloop/bloop.json
+2023.11.09 11:09:56 INFO  skipping build import with status 'Installed'
+2023.11.09 11:09:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/.metals/bsp.trace.json or /Users/jjpseno/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.11.09 11:09:59 INFO  time: Connected to build server in 3.3s
+2023.11.09 11:09:59 INFO  Connected to Build server: Bloop v1.5.11
+2023.11.09 11:10:14 INFO  no build target found for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/domains/Post.scala. Using presentation compiler with project's scala-library version: 3.3.1
+Nov 09, 2023 11:10:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Nov 09, 2023 11:10:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2023.11.09 11:10:15 INFO  time: Imported build in 0.5s
+2023.11.09 11:10:25 INFO  no build target found for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/domains/Post.scala. Using presentation compiler with project's scala-library version: 3.3.1
+Nov 09, 2023 11:10:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Nov 09, 2023 11:10:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+2023.11.09 11:10:30 INFO  compiling root (1 scala source)
+2023.11.09 11:10:33 INFO  time: indexed workspace in 18s
+2023.11.09 11:10:34 INFO  time: compiled root in 4.11s
+2023.11.09 11:10:39 INFO  compiling root (1 scala source)
+2023.11.09 11:10:42 INFO  time: compiled root in 2.27s
+2023.11.09 11:10:58 INFO  compiling root (1 scala source)
+2023.11.09 11:11:00 INFO  time: compiled root in 1.38s
+2023.11.09 11:12:50 INFO  compiling root (1 scala source)
+Nov 09, 2023 11:13:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 210
+2023.11.09 11:13:08 INFO  time: compiled root in 17s
+2023.11.09 11:13:08 INFO  compiling root (2 scala sources)
+2023.11.09 11:13:38 INFO  time: compiled root in 29s
+2023.11.09 11:13:38 INFO  compiling root (2 scala sources)
+2023.11.09 11:13:42 INFO  time: compiled root in 4.63s
+2023.11.09 11:13:42 INFO  compiling root (2 scala sources)
+2023.11.09 11:13:46 INFO  time: compiled root in 3.68s
+2023.11.09 11:13:46 INFO  compiling root (2 scala sources)
+2023.11.09 11:13:52 INFO  time: compiled root in 5.25s
+2023.11.09 11:13:52 INFO  compiling root (2 scala sources)
+2023.11.09 11:13:56 INFO  time: compiled root in 3.78s
+2023.11.09 11:13:56 INFO  compiling root (2 scala sources)
+2023.11.09 11:14:00 INFO  time: compiled root in 4.62s
+2023.11.09 11:14:02 INFO  compiling root (1 scala source)
+2023.11.09 11:14:03 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/repos/PostRepo.scala
+2023.11.09 11:14:04 INFO  time: compiled root in 1.72s
+2023.11.09 11:14:04 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/repos/PostRepo.scala
+2023.11.09 11:14:05 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/repos/PostRepo.scala
+2023.11.09 11:14:07 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/repos/PostRepo.scala
+2023.11.09 11:14:09 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/repos/PostRepo.scala
+2023.11.09 11:14:11 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/repos/PostRepo.scala
+2023.11.09 11:14:12 INFO  compiling root (1 scala source)
+2023.11.09 11:14:13 INFO  time: compiled root in 1.2s
+2023.11.09 11:14:45 INFO  compiling root (1 scala source)
+2023.11.09 11:14:45 INFO  time: compiled root in 0.24s
+2023.11.09 11:15:08 INFO  compiling root (1 scala source)
+2023.11.09 11:15:08 INFO  time: compiled root in 0.57s
+2023.11.09 11:15:23 INFO  compiling root (1 scala source)
+2023.11.09 11:15:23 INFO  time: compiled root in 0.42s
+2023.11.09 11:15:29 INFO  compiling root (1 scala source)
+2023.11.09 11:15:29 INFO  time: compiled root in 0.35s
+2023.11.09 11:15:30 INFO  compiling root (1 scala source)
+2023.11.09 11:15:30 INFO  time: compiled root in 0.47s
+2023.11.09 11:15:42 INFO  compiling root (1 scala source)
+2023.11.09 11:15:42 INFO  time: compiled root in 0.96s
+2023.11.09 11:16:10 INFO  compiling root (1 scala source)
+2023.11.09 11:16:11 INFO  time: compiled root in 1.45s
+2023.11.09 11:16:25 INFO  compiling root (1 scala source)
+2023.11.09 11:16:25 INFO  time: compiled root in 0.69s
+2023.11.09 11:19:33 INFO  compiling root (1 scala source)
+2023.11.09 11:19:33 INFO  time: compiled root in 0.29s
+2023.11.09 11:19:55 INFO  compiling root (1 scala source)
+2023.11.09 11:19:55 INFO  time: compiled root in 0.86s
+2023.11.09 11:19:57 WARN  no build target for: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/build.sbt
+Nov 09, 2023 11:19:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 859
+2023.11.09 11:20:21 INFO  compiling root (1 scala source)
+2023.11.09 11:20:23 INFO  time: compiled root in 1.59s
+Nov 09, 2023 11:21:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 938
+2023.11.09 11:21:25 INFO  compiling root (1 scala source)
+2023.11.09 11:21:31 INFO  time: compiled root in 6.05s
+2023.11.09 11:21:31 INFO  compiling root (2 scala sources)
+2023.11.09 11:21:35 INFO  Deduplicating compilation of root from bsp client 'Metals 1.1.0' (since 11m 35.688s)
+2023.11.09 11:21:35 INFO  compiling root (1 scala source)
+2023.11.09 11:21:35 INFO  time: compiled root in 1ms
+2023.11.09 11:21:35 INFO  compiling root (2 scala sources)
+2023.11.09 11:21:38 INFO  time: compiled root in 3.57s
+2023.11.09 11:22:43 INFO  compiling root (1 scala source)
+2023.11.09 11:22:43 INFO  time: compiled root in 0.44s
+2023.11.09 11:23:37 INFO  compiling root (1 scala source)
+2023.11.09 11:23:41 INFO  time: compiled root in 3.58s
+2023.11.09 11:24:54 INFO  compiling root (1 scala source)
+2023.11.09 11:24:57 INFO  time: compiled root in 2.38s
+2023.11.09 11:25:23 INFO  compiling root (1 scala source)
+2023.11.09 11:25:25 INFO  time: compiled root in 2.3s
+2023.11.09 11:26:09 INFO  compiling root (1 scala source)
+2023.11.09 11:26:11 INFO  time: compiled root in 1.96s
+2023.11.09 11:26:45 INFO  compiling root (1 scala source)
+2023.11.09 11:26:48 INFO  time: compiled root in 2.18s
+2023.11.09 11:37:24 INFO  compiling root (1 scala source)
+2023.11.09 11:37:27 INFO  time: compiled root in 2.8s
+2023.11.09 11:39:03 INFO  compiling root (1 scala source)
+2023.11.09 11:39:06 INFO  time: compiled root in 2.93s
+2023.11.09 11:39:31 INFO  compiling root (1 scala source)
+2023.11.09 11:39:33 INFO  time: compiled root in 1.48s
+2023.11.09 11:39:33 INFO  compiling root (1 scala source)
+2023.11.09 11:39:34 INFO  time: compiled root in 1.24s
+2023.11.09 11:39:34 INFO  compiling root (1 scala source)
+2023.11.09 11:39:36 INFO  time: compiled root in 1.82s
+2023.11.09 11:39:36 INFO  compiling root (1 scala source)
+2023.11.09 11:39:37 INFO  time: compiled root in 1.1s
+2023.11.09 11:39:39 INFO  compiling root (2 scala sources)
+2023.11.09 11:39:40 INFO  time: compiled root in 1.11s
+2023.11.09 11:39:40 INFO  compiling root (2 scala sources)
+2023.11.09 11:39:40 INFO  time: compiled root in 0.9s
+2023.11.09 11:39:46 INFO  compiling root (2 scala sources)
+2023.11.09 11:39:46 INFO  time: compiled root in 0.37s
+2023.11.09 11:40:22 INFO  compiling root (2 scala sources)
+2023.11.09 11:40:24 INFO  time: compiled root in 2.31s
+2023.11.09 11:40:41 INFO  compiling root (2 scala sources)
+2023.11.09 11:40:44 INFO  time: compiled root in 2.12s
+2023.11.09 11:41:50 INFO  compiling root (1 scala source)
+2023.11.09 11:41:52 INFO  time: compiled root in 2.11s
+Nov 09, 2023 11:42:07 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+java.nio.file.NoSuchFileException: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:209)
+	at scala.meta.internal.pc.CompletionItemResolver$.resolve(CompletionItemResolver.scala:27)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve$$anonfun$1(ScalaPresentationCompiler.scala:192)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:232)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Nov 09, 2023 11:42:07 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+java.nio.file.NoSuchFileException: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:286)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:209)
+	at scala.meta.internal.pc.CompletionItemResolver$.resolve(CompletionItemResolver.scala:27)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve$$anonfun$1(ScalaPresentationCompiler.scala:192)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:232)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 11:42:20 INFO  compiling root (1 scala source)
+2023.11.09 11:42:22 INFO  time: compiled root in 1.82s
+2023.11.09 11:44:51 INFO  compiling root (1 scala source)
+2023.11.09 11:44:53 INFO  time: compiled root in 2.06s
+Nov 09, 2023 11:48:46 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+java.nio.file.NoSuchFileException: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:209)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:137)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:329)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:232)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Nov 09, 2023 11:48:46 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+java.nio.file.NoSuchFileException: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:286)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:209)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:137)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:329)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:232)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Nov 09, 2023 11:48:46 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+java.nio.file.NoSuchFileException: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:213)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:213)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:209)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:137)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:329)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:232)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Nov 09, 2023 11:48:46 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+java.nio.file.NoSuchFileException: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:286)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$8(SymbolIndexBucket.scala:213)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:213)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:209)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:137)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:329)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:232)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Nov 09, 2023 11:49:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2522
+2023.11.09 11:49:09 INFO  compiling root (2 scala sources)
+2023.11.09 11:49:12 INFO  time: compiled root in 3.73s
+Nov 09, 2023 11:50:14 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+java.nio.file.NoSuchFileException: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:209)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:137)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:329)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:232)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Nov 09, 2023 11:50:14 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+java.nio.file.NoSuchFileException: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/PostService.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:286)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.mtags.MtagsEnrichments$.symbolDocumentation(MtagsEnrichments.scala:209)
+	at scala.meta.internal.pc.HoverProvider$.$anonfun$3(HoverProvider.scala:137)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:329)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:232)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 11:50:41 INFO  compiling root (1 scala source)
+2023.11.09 11:50:43 INFO  time: compiled root in 1.65s
+2023.11.09 11:51:01 INFO  compiling root (1 scala source)
+2023.11.09 11:51:01 INFO  time: compiled root in 0.7s
+2023.11.09 11:55:56 INFO  compiling root (3 scala sources)
+2023.11.09 11:56:00 INFO  time: compiled root in 3.97s
+2023.11.09 11:58:21 INFO  compiling root (1 scala source)
+2023.11.09 11:58:23 INFO  time: compiled root in 2.53s
+2023.11.09 11:58:23 INFO  compiling root (3 scala sources)
+2023.11.09 11:58:37 INFO  time: compiled root in 13s
+2023.11.09 11:58:37 INFO  compiling root (1 scala source)
+2023.11.09 11:58:38 INFO  time: compiled root in 1.22s
+2023.11.09 11:58:38 INFO  compiling root (3 scala sources)
+2023.11.09 11:58:47 INFO  time: compiled root in 9.16s
+2023.11.09 11:59:01 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+2023.11.09 11:59:02 INFO  compiling root (2 scala sources)
+2023.11.09 11:59:05 INFO  time: compiled root in 3.08s
+2023.11.09 11:59:05 INFO  compiling root (3 scala sources)
+2023.11.09 11:59:13 INFO  time: compiled root in 8.57s
+2023.11.09 12:02:59 INFO  compiling root (1 scala source)
+2023.11.09 12:03:04 INFO  time: compiled root in 5.05s
+2023.11.09 12:03:06 INFO  compiling root (1 scala source)
+2023.11.09 12:03:11 INFO  time: compiled root in 4.87s
+2023.11.09 12:03:12 INFO  compiling root (1 scala source)
+2023.11.09 12:03:16 INFO  time: compiled root in 3.79s
+2023.11.09 12:04:01 INFO  compiling root (1 scala source)
+2023.11.09 12:04:05 INFO  time: compiled root in 3.65s
+2023.11.09 12:05:24 INFO  compiling root (1 scala source)
+2023.11.09 12:05:31 INFO  time: compiled root in 7.1s
+2023.11.09 12:05:31 INFO  compiling root (3 scala sources)
+2023.11.09 12:05:39 INFO  time: compiled root in 7.87s
+2023.11.09 12:05:42 INFO  compiling root (1 scala source)
+2023.11.09 12:05:46 INFO  time: compiled root in 3.66s
+2023.11.09 12:09:16 INFO  compiling root (1 scala source)
+2023.11.09 12:09:21 INFO  time: compiled root in 4.75s
+2023.11.09 12:10:08 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/repos/PostRepo.scala
+2023.11.09 12:10:08 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/repos/PostRepo.scala
+2023.11.09 12:10:08 INFO  compiling root (1 scala source)
+2023.11.09 12:10:11 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/repos/PostRepo.scala
+2023.11.09 12:10:15 INFO  time: compiled root in 6.23s
+2023.11.09 12:11:27 INFO  compiling root (1 scala source)
+2023.11.09 12:11:32 INFO  time: compiled root in 5.21s
+2023.11.09 12:16:22 INFO  Disconnecting from Bloop session...
+2023.11.09 12:16:22 INFO  Shut down connection with build server.
+2023.11.09 12:16:22 INFO  Deleted directories inside .bloop
+2023.11.09 12:16:22 INFO  Attempting to connect to the build server...
+2023.11.09 12:16:22 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home defined at /Users/jjpseno/.bloop/bloop.json
+2023.11.09 12:16:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/.metals/bsp.trace.json or /Users/jjpseno/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.11.09 12:16:31 INFO  time: Connected to build server in 8.6s
+2023.11.09 12:16:31 INFO  Connected to Build server: Bloop v1.5.11
+2023.11.09 12:16:31 INFO  time: Imported build in 0.37s
+2023.11.09 12:16:36 INFO  time: indexed workspace in 4.55s
+2023.11.09 12:16:36 WARN  no build target for: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/build.sbt
+2023.11.09 12:16:39 INFO  compiling root (10 scala sources and 1 java source)
+2023.11.09 12:17:08 WARN  Error reading API from class file: controllers.routes : java.lang.UnsupportedClassVersionError: controllers/routes has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+2023.11.09 12:17:08 WARN  Error reading API from class file: controllers.routes$javascript : java.lang.UnsupportedClassVersionError: controllers/routes$javascript has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+2023.11.09 12:17:08 INFO  compiling root-test (1 scala source)
+2023.11.09 12:17:09 INFO  time: compiled root in 30s
+2023.11.09 12:17:09 INFO  time: compiled root-test in 1.82s
+2023.11.09 12:17:50 INFO  running '/opt/local/sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/hd/g_z2jt253d30pypn9l4hqg400000gp/T/metals5854565330360289961/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.11.09 12:17:54 INFO  [info] welcome to sbt 1.9.7 (Amazon.com Inc. Java 21.0.1)
+2023.11.09 12:17:56 INFO  [info] loading settings for project bbs-backend-build-build-build from metals.sbt ...
+2023.11.09 12:17:58 INFO  [info] loading project definition from /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/project/project/project
+2023.11.09 12:18:01 INFO  [info] loading settings for project bbs-backend-build-build from metals.sbt ...
+2023.11.09 12:18:01 INFO  [info] loading project definition from /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/project/project
+2023.11.09 12:18:06 INFO  [success] Generated .bloop/bbs-backend-build-build.json
+2023.11.09 12:18:06 INFO  [success] Total time: 5 s, completed Nov 9, 2023, 12:18:07 PM
+2023.11.09 12:18:06 INFO  [info] loading settings for project bbs-backend-build from metals.sbt,plugins.sbt ...
+2023.11.09 12:18:06 INFO  [info] loading project definition from /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/project
+2023.11.09 12:18:09 INFO  [success] Generated .bloop/bbs-backend-build.json
+2023.11.09 12:18:09 INFO  [success] Total time: 3 s, completed Nov 9, 2023, 12:18:10 PM
+2023.11.09 12:18:11 INFO  [info] loading settings for project root from build.sbt ...
+2023.11.09 12:18:11 INFO  [info]   __              __
+2023.11.09 12:18:11 INFO  [info]   \ \     ____   / /____ _ __  __
+2023.11.09 12:18:11 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2023.11.09 12:18:11 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2023.11.09 12:18:11 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2023.11.09 12:18:11 INFO  [info]       /_/               /____/
+2023.11.09 12:18:11 INFO  [info] 
+2023.11.09 12:18:11 INFO  [info] Version 3.0.0 running Java 21.0.1
+2023.11.09 12:18:11 INFO  [info] 
+2023.11.09 12:18:11 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2023.11.09 12:18:11 INFO  [info] https://www.playframework.com/sponsors
+2023.11.09 12:18:11 INFO  [info] 
+2023.11.09 12:18:19 INFO  [success] Generated .bloop/root.json
+2023.11.09 12:18:19 INFO  [success] Generated .bloop/root-test.json
+2023.11.09 12:18:19 INFO  [success] Total time: 7 s, completed Nov 9, 2023, 12:18:19 PM
+2023.11.09 12:18:19 INFO  time: ran 'sbt bloopInstall' in 28s
+2023.11.09 12:18:19 INFO  Disconnecting from Bloop session...
+2023.11.09 12:18:19 INFO  Shut down connection with build server.
+2023.11.09 12:18:19 INFO  Attempting to connect to the build server...
+2023.11.09 12:18:19 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home defined at /Users/jjpseno/.bloop/bloop.json
+2023.11.09 12:18:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/.metals/bsp.trace.json or /Users/jjpseno/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.11.09 12:18:19 INFO  time: Connected to build server in 0.16s
+2023.11.09 12:18:19 INFO  Connected to Build server: Bloop v1.5.11
+2023.11.09 12:18:19 INFO  time: Imported build in 0.12s
+2023.11.09 12:18:24 INFO  time: indexed workspace in 4.92s
+2023.11.09 12:18:24 WARN  no build target for: /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/build.sbt
+2023.11.09 12:18:29 INFO  compiling root-test (1 scala source)
+2023.11.09 12:18:29 INFO  time: compiled root-test in 6ms
+2023.11.09 12:18:54 INFO  compiling root-test (1 scala source)
+2023.11.09 12:18:58 INFO  time: compiled root-test in 4.44s
+Nov 09, 2023 12:19:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3394
+2023.11.09 12:27:20 INFO  compiling root (1 scala source)
+2023.11.09 12:27:24 INFO  time: compiled root in 3.35s
+2023.11.09 12:27:55 INFO  compiling root (1 scala source)
+2023.11.09 12:27:57 INFO  compiling root (1 scala source)
+2023.11.09 12:27:57 INFO  time: compiled root in 0.78s
+2023.11.09 12:29:15 INFO  compiling root (1 scala source)
+2023.11.09 12:29:21 INFO  time: compiled root in 6.36s
+2023.11.09 12:29:55 INFO  compiling root (1 scala source)
+2023.11.09 12:29:57 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/HomeService.scala
+2023.11.09 12:30:09 INFO  time: compiled root in 13s
+2023.11.09 12:30:09 INFO  compiling root (2 scala sources)
+2023.11.09 12:30:09 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/models/services/HomeService.scala
+2023.11.09 12:30:19 INFO  time: compiled root in 9.48s
+2023.11.09 12:30:50 INFO  compiling root (3 scala sources)
+2023.11.09 12:30:55 INFO  time: compiled root in 5.03s
+2023.11.09 12:31:07 INFO  compiling root (1 scala source)
+2023.11.09 12:31:10 INFO  time: compiled root in 3.61s
+2023.11.09 12:33:31 INFO  compiling root (1 scala source)
+2023.11.09 12:33:35 INFO  time: compiled root in 4.5s
+Nov 09, 2023 12:33:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4149
+2023.11.09 12:34:54 INFO  compiling root (1 scala source)
+2023.11.09 12:35:00 INFO  time: compiled root in 6.23s
+2023.11.09 12:35:00 INFO  compiling root (1 scala source)
+2023.11.09 12:35:03 INFO  time: compiled root in 2.69s
+2023.11.09 12:35:03 INFO  compiling root (1 scala source)
+2023.11.09 12:35:07 INFO  time: compiled root in 3.59s
+2023.11.09 12:42:44 INFO  compiling root (1 scala source)
+2023.11.09 12:42:47 INFO  time: compiled root in 2.87s
+2023.11.09 12:42:57 INFO  compiling root (1 scala source)
+2023.11.09 12:43:04 INFO  time: compiled root in 7.32s
+2023.11.09 12:45:06 INFO  compiling root (1 scala source)
+2023.11.09 12:45:13 INFO  time: compiled root in 6.85s
+2023.11.09 12:47:25 INFO  compiling root (1 scala source)
+2023.11.09 12:47:28 INFO  time: compiled root in 3.38s
+2023.11.09 12:47:28 INFO  compiling root (3 scala sources)
+2023.11.09 12:47:41 INFO  time: compiled root in 12s
+2023.11.09 12:49:16 INFO  compiling root (1 scala source)
+2023.11.09 12:49:19 INFO  time: compiled root in 3.7s
+2023.11.09 12:49:19 INFO  compiling root (1 scala source)
+2023.11.09 12:49:49 INFO  time: compiled root in 29s
+2023.11.09 12:49:49 INFO  compiling root (3 scala sources)
+2023.11.09 12:50:07 INFO  time: compiled root in 17s
+2023.11.09 12:50:07 INFO  compiling root (1 scala source)
+2023.11.09 12:50:12 INFO  time: compiled root in 5.04s
+2023.11.09 12:58:26 INFO  compiling root (2 scala sources)
+2023.11.09 12:58:29 INFO  time: compiled root in 2.21s
+2023.11.09 13:04:30 INFO  compiling root (1 scala source)
+2023.11.09 13:04:45 INFO  time: compiled root in 15s
+2023.11.09 13:05:45 ERROR Failed to tokenize input for semantic tokens for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+scala.meta.tokenizers.TokenizeException: <input>:70: error: unclosed quoted identifier
+        println(`{})
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getBackquotedIdent(LegacyScanner.scala:489)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:337)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 13:06:01 ERROR Failed to tokenize input for semantic tokens for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+scala.meta.tokenizers.TokenizeException: <input>:70: error: unclosed quoted identifier
+        println(asda ${post}`)
+                            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getBackquotedIdent(LegacyScanner.scala:489)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:337)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 13:06:02 ERROR Failed to tokenize input for semantic tokens for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+scala.meta.tokenizers.TokenizeException: <input>:70: error: unclosed string literal
+        println("asda ${post}`)
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 13:06:05 ERROR Failed to tokenize input for semantic tokens for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+scala.meta.tokenizers.TokenizeException: <input>:70: error: unclosed string literal
+        println("asda ${post})
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 13:06:06 ERROR Failed to tokenize input for semantic tokens for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+scala.meta.tokenizers.TokenizeException: <input>:70: error: unclosed string literal
+        println("asda ${post}"")
+                              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 13:06:15 ERROR Failed to tokenize input for semantic tokens for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+scala.meta.tokenizers.TokenizeException: <input>:70: error: unclosed string literal
+        println("post: " ${post}")
+                                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 13:06:17 ERROR Failed to tokenize input for semantic tokens for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+scala.meta.tokenizers.TokenizeException: <input>:70: error: unclosed string literal
+        println("post: " +${post}")
+                                 ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 13:06:18 ERROR Failed to tokenize input for semantic tokens for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+scala.meta.tokenizers.TokenizeException: <input>:70: error: unclosed string literal
+        println("post: " +post}")
+                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:539)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2023.11.09 13:06:27 INFO  compiling root (1 scala source)
+2023.11.09 13:06:31 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+2023.11.09 13:06:33 INFO  time: compiled root in 6.23s
+Nov 09, 2023 1:16:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5161
+2023.11.09 13:16:37 INFO  compiling root (1 scala source)
+2023.11.09 13:16:47 INFO  time: compiled root in 9.9s
+2023.11.09 13:19:33 INFO  compiling root (1 scala source)
+2023.11.09 13:19:45 WARN  Could not load snapshot text for /Users/jjpseno/Documents/FULLPROJ/bbs-11092023/bbs-backend/app/controllers/HomeController.scala
+2023.11.09 13:19:50 INFO  time: compiled root in 16s
+Nov 09, 2023 1:21:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5445
+2023.11.09 13:21:39 INFO  compiling root (1 scala source)
+2023.11.09 13:21:50 INFO  time: compiled root in 10s
+Nov 09, 2023 4:45:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5546
