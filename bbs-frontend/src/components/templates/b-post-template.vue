@@ -20,6 +20,7 @@ header {
 }
 hr{
   width: 130%;
+  margin-bottom: 5px;
   margin-top: 10px;
   margin-left: -10%;
 }

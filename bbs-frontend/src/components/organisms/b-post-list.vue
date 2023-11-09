@@ -1,9 +1,7 @@
 <template>
-  <ul>
-    <li v-for="(post, index) in postStore.postsStore.posts">
+    <div class="list-item" v-for="(post, index) in postStore.postsStore.posts">
       {{ post.message }}
-    </li> 
-  </ul>
+    </div>
 </template>
 <script setup lang="ts">
   import {usePost} from '../../stores/usePost';
@@ -11,5 +9,7 @@
 
 </script>
 <style scoped>
-
+  .list-item{
+    margin: 5px 0px;
+  }
 </style>

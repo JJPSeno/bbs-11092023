@@ -26,7 +26,7 @@ const props = defineProps({
     },
     inputType:{
       type: String,
-      default: 'text',
+      default: 'text', //file
     },
     inputPlaceholder:{
       type: String,
